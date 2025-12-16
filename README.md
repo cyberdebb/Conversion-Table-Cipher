@@ -1,4 +1,4 @@
-# Conversion-Table-Cipher
+# Conversion Table Cipher
 
 ## Overview
 This repository contains a **table-based substitution cipher implemented in C++**, designed for educational purposes. The project demonstrates how characters can be encrypted and decrypted using a conversion (lookup) table.
